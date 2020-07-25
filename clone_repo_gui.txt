@@ -1,2 +1,3 @@
 clone repo by sourcetree.
 git tag test by commond.
+git tag test by sourcetree.
